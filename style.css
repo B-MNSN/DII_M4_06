@@ -10,6 +10,23 @@ body>.container {
     object-fit: contain;
 }
 
-.head-cart {
+.information-dog {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem 0 0 15rem;
+}
+
+.bacg-empty {
+    background-color: #BFCED6;
+}
+
+.bacg-inform {
+    left: 30rem;
+    top: 18rem;
     background-color: #D9E1E2;
+    height: 60%;
+}
+
+.button {
+    background-color: #BFCED6;
 }
